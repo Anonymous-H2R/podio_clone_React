@@ -1,0 +1,101 @@
+*{box-sizing: border-box;}
+
+.logo{
+    max-width: 19%;
+}
+
+button{
+    background-color: #00687a;
+}
+
+.ba1{
+    /* background-color: aqua; */
+    height: 600px;
+    
+}
+.background-pic{
+    background-image: url(https://www.podio.com/content/dam/podio/images/homepage/podio-hp-hero.jpeg);
+    height: 600px;
+    background-repeat: no-repeat;
+    background-position: 100% 100%;
+}
+
+.f1{
+    /* background-image: url(https://www.podio.com/content/dam/podio/images/homepage/podio-hp-hero.jpeg); */
+
+    /* background-color: red; */
+    height: 600px;
+    padding-top: 190px;
+    padding-left: 50px;
+}
+.he1 {
+    font-family: 'Public Sans',sans-serif;
+    font-weight: 300;
+    font-size: 70px;
+    font-style: normal;
+    line-height: 4rem;
+    
+}
+.pa1{
+    font-size: 22px;
+    line-height: 1.5rem;
+
+}
+
+.img-logo img{
+    padding: 50px;
+    /* height: 70px; */
+    /* width: %; */
+}
+.img-logo {
+   background-color:#eeeeee;
+
+   height: 150px;
+
+}
+
+.tv2-img
+{
+    height: 342px ;
+    width:500px;
+    /* width: 70%; */
+}
+
+.v2h1
+{
+    font-size: 3rem;
+    /* font-weight: 900; */
+}
+
+.quot2
+{
+    font-size: 1.5rem;
+    /* font-weight: 400; */
+}
+
+.le-more{
+    font-size: 20px;
+    /* width: 100px; */
+    padding: 5px 20px;
+}
+
+.sma-p{
+    font-size: 16px;
+
+}
+.sma-p-colab{
+    font-size: 16px;
+    text-align: center;
+}
+
+.h2-colab{
+    font-size: 3rem;
+    line-height: 3.3333333333333335rem;
+    text-align: center;
+}
+
+.p-colab{
+        font-size:1.1rem;
+        line-height: 1.5rem;
+        text-align: center;
+}
